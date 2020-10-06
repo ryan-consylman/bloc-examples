@@ -6,7 +6,7 @@ require $_SERVER['DOCUMENT_ROOT']."/assets/includes/header.php";
     <p>
     <svg class="bi" width="32" height="32" fill="currentColor">
         <use xlink:href="/assets/images/bootstrap-icons.svg#shop"/>
-    </svg>
+    </svg> 
     </p>
 </main>
 <?php
